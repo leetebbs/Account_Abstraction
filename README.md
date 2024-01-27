@@ -1,13 +1,11 @@
-# Sample Hardhat Project
+# Account abstraction following the Alchemy Docs
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+https://docs.alchemy.com/docs/smart-accounts-from-scratch
 
-Try running some of the following tasks:
+# Part One
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Execute a User Operation
+
+# Part Two
+
+Build a Paymaster
