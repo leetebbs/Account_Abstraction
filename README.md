@@ -9,3 +9,7 @@ Execute a User Operation
 # Part Two
 
 Build a Paymaster
+
+# Part Three
+
+Account Validation
